@@ -1,2 +1,2 @@
 Official +Linux Website,
-+Linux is an operating system that facilitates the creation of websites, applications, etc., which was created by Gabriel Coletto, the operating system is written in Python GI GTK, ATTENTION THE PROJECT IS STILL UNDER DEVELOPMENT
++Linux, É Um Sistema Operacional, Baseado Em Linux, Que Seu Próposito É Ser Mais Facíl Para Os Desenvolvedores, Criarem Suas Aplicações, Sites E Etc..., além disso, o +Linux É Leve Por Conta, De Sua Interface, O SO É Escrito Em Python GI GTK
